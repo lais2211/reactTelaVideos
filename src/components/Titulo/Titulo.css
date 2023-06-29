@@ -1,0 +1,7 @@
+.titulo h1{
+    font-style: var(--fonte);
+    font-weight: 500px;
+    font-size: 32px;
+    text-align: center;
+    color: var(--preto);
+}
